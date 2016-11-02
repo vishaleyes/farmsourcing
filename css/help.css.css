@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+background:#E5EDED;
+}
+
+
+.topcontainer11
+{
+	width: 100%;
+	height: auto;
+	float: left;
+	background-image:url(images/headerimg.jpg);
+	background-repeat: repeat-x;
+
+}
+.topcnt
+{
+	width: 950px;
+	height: auto;
+	margin: 0 auto 0;
+	/*background-color: #192c33;*/
+}
+.topcnt_insd_lft
+{
+/*	width: 173px;
+	height: auto;
+		font-family: "Days One";
+	font-size: 1.6em;
+	margin-top: 2px;	
+	*/
+	float: left;
+	color: #FFFFFF;
+	margin-left:110px;
+
+
+}
+.topcnt_insd_nav
+{
+/*	width: 410px;*/
+	height: auto;
+	float: left;
+	font-family: "Days One";
+	font-size: 1.0em;
+	color: #F47E1F;
+	margin-top: 25px;
+	margin-left:25px;
+}
+
+.inpg_topcnt_insd_login
+{
+/*	width: 367px;*/
+	height: auto;
+	float: left;
+	padding-top: 20px;
+	margin-left:25px;
+
+}
+.inpg_topcnt_insd_logintext
+{
+/*	width: 367px;*/
+	height: auto;
+	float: left;
+	padding-top: 25px;
+	margin-left:5px;
+	color:#FFFFFF;
+
+}
+
+.inpg_cntcontainer
+{
+	width: 80%;
+	height: auto;
+	float: left;
+/*	background-image: url(images/bg.jpg);
+	background-repeat: repeat-x;*/
+	
+	margin-left:105px;
+
+}
+
+.conttext
+{
+font-family:Arial, Helvetica, sans-serif;
+}
+
+ol
+{
+font-family:"Arial Unicode MS";
+color:#224559;
+}
+
+.cont_text_que
+{
+width:70%;
+float:left;
+}
+.cont_text_queside
+{
+width:30%;
+float:left;
+color:#224559;
+}
+
+

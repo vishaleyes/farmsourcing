@@ -1,0 +1,55 @@
+#popup_container {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;font-size: 12px; min-width: 300px; /* Dialog will be no smaller than this */
+				  max-width: 600px; /* Dialog will wrap after this width */
+				  background:#23303B; border: solid 5px #23303B; color: #000; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;
+}
+
+#alert_title {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;font-size:13px; font-weight:bold; text-align:left; line-height:25px; color:#FFFFFF; background:#23303B;
+			      cursor: default; padding: 0px 0px 0px 10px; margin: 0em; border-bottom:none;
+}
+
+#popup_title 	{ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;font-size:13px; font-weight:bold; text-align:left; line-height:25px; color:#FFFFFF; background:#1C2E35;
+			      cursor: default; padding: 0px 0px 0px 10px; margin: 0em; border-bottom:none; }
+
+#popup_content {
+	 padding:10px; margin:0em; color:#333333; font-weight:normal; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; background:#FFF;
+}
+
+
+#popup_message {
+	padding-left: 48px;
+}
+
+#popup_panel {
+	text-align:right; margin:1em 0em 0em 1em;
+}
+
+#popup_prompt {
+	margin: .5em 0em;
+}
+
+#popup_panel input{ background:#BCBCBC; background: -webkit-gradient(linear, left top, left bottom, from(#eeeeee), to(#BCBCBC));
+					background: -moz-linear-gradient(top, #eeeeee, #BCBCBC); 
+					filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#BCBCBC'); 
+					border:solid 1px #cccccc; margin:0px 5px; padding:5px 10px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666; cursor:pointer; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; }
+#popup_panel input:hover{ box-shadow:2px 2px 2px #000000; -moz-box-shadow:0px 0px 2px #BCBCBC; color:#000000;}
+
+
+/* Overlay helper */
+
+#fancybox-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	display: none;
+	z-index: 8010;
+	background: #000;
+}
+
+#fancybox-overlay.overlay-fixed {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}

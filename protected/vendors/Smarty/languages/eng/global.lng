@@ -1,0 +1,784 @@
+//Global
+_BTN_SUBMIT_=Submit
+_BTN_CONTINUE_=Continue
+_BTN_CANCEL_=Cancel
+_BTN_OK_=Ok
+_BTN_HISTORY_=History
+_BTN_LOGIN_=Login
+_BTN_YES_=Yes
+_BTN_NO_=No
+_BTN_APPLY_=Apply
+_BTN_DONE_=Done
+_BTN_OPEN_=Open
+_BTN_CLOSE_=Close
+_BTN_REASSIGN_=Reassign
+_BTN_ASSIGN_BACK_=Assign back
+_BTN_BACK_=Back
+_BTN_ADD_INVITE_=Add Invite
+_BTN_VIEW_=view
+_BTN_DELETE_=delete
+_BTN_ATTACH_=attachment
+_GO_=Go
+_MOBILE_TIMEZONE_=Timezone
+_CAPTCHA_DESC_=To prevent automated SPAM submissions, we request you to type the characters you see in the picture below: (letters are not case-sensitive)
+_REMIND_ME_=Remind Me
+_INDEX_PAGE_CHECK_APPS_=Check our apps &gt;&gt;
+_MOBILE_LOGO_DESC_=to get things done
+
+//Forgot password link page
+_EMAIL_TMP_FORGOT_PASSWORD_HELLO_=Hello
+_EMAIL_TMP_FORGOT_PASSWORD_VERIFICATION_CODE_=You requested to reset your password. <br /><br />To reset your password, you will need verification code
+_EMAIL_TMP_FORGOT_PASSWORD_RESET_=<br />To reset your password, please click
+_EMAIL_TMP_FORGOT_PASSWORD_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+_LOGO_ALTER_=_SITENAME_.com - to get things done
+_TMP_ACCOUNT_ACTIVATION_HELLO_=Hello
+_TMP_ACCOUNT_ACTIVATION_CLICK_ACTIVATE_=Please activate your _SITENAME_ account by clicking this link
+_TMP_ACCOUNT_ACTIVATION_VERIFY_NOW_=Verify now
+_TMP_ACCOUNT_ACTIVATION_ACTIVATED_=Once you have activated the account, you can start using your _SITENAME_NO_CAPS_.com account.
+_EMAIL_TEMP_THANKS_MESSAGE_=Thanks,
+_EMAIL_TEMP_USING_=Using http://www._SITENAME_NO_CAPS_.com.
+_EMAIL_TEMP_DO_NOT_REPLY_=Please DO NOT REPLY to this email.
+
+
+//Sign up page
+_SIGNUP_CREATE_ACCOUNT_=Create an account
+_SIGNUP_REG_ABOUT_YOURSELF_=Please tell us about your self. You will use your email or phone number to login to your _SITENAME_NO_CAPS_.com account
+_SIGNUP_REG_FULL_NAME_=Full name
+_SIGNUP_REG_EMAIL_=Email
+_SIGNUP_REG_PHONE_=Phone number
+_SIGNUP_REG_VERIFY_NOW_=Verify now
+_SIGNUP_REG_SMS_=Can receive SMS on this? 
+_SIGNUP_REG_VERIFY_PHONE_=To verify the phone number, text "Verify
+_SIGNUP_REG_VERIFY_NUMBER_=to (408)645-7916.
+_SIGNUP_REG_OK_=OK
+_SIGNUP_REG_PASSWORD_=Password
+_SIGNUP_REG_CONFIRM_PASSWORD_=Confirm password
+_CAPTCHA_=Captcha
+_TIMEZONE_=Timezone
+_SIGNUP_REG_SAFE_=Safe &amp; Secure
+_SIGNUP_REG_QUICK_=Quick &amp; Easy
+_SIGNUP_REG_CLEAR_=Clear &amp; Simple
+_SIGNUP_REG_REQUIRED_=Fields marked with * are required.
+
+
+//About page
+
+
+//About page
+_WINE_ACEDEMY_=Tamah International Group
+_WINE_ACEDEMY_DESC_=Tamah Trading Est. is the subsidiary of Tamah International Group having diversified activities covering a broad spectrum of areas including Tamah National Factories, Tamah Chemicals, and Saudi Care & Dareed Est. Our major line is distribution and marketing consumer products. Our hard work has earned us a very good reputation in local market and GCC Counties too for more than decade.
+
+_STORE_COMPITION_=Store Competition
+_STORE_COMPITION_DESC_=Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived only five centuries.
+
+
+_NEW_ARRIVALS_=New Arrivals
+_NEW_ARRIVALS_DESC_=Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived only five centuries. 
+
+_COLLEAGURS_LOCATOR_=Colleague Locator
+_COLLEAGURS_LOCATOR_DESC_=
+
+
+_ABOUT_DESC_4_=<b>Jobsmo.com:</b> Jobsmo.com is the mobile way to hire and get hired! It revolutionizes hiring hourly workforce.  Jobsmo.com replaces the "Now Hiring" sign on window.
+Employers do not need to visit a website to post jobs or connect with candidates. And Seekers do not need a website to get found. You can use jobsmo right from your phone - SMS, iPhone app, Android app, mobile web etc. And of course you can use the traditional website
+
+_MOBILE_DESC_3_=Finditnear.com makes it easy for merchants and consumers to connect. It enables consumers to ask for what they want in real time at the location they prefer and enables merchants to create buzz in real time and connect instantly with consumers near their locations. We also enable merchants to send personalized (patent pending) "just for me" messages/coupons to customers through Finditnear. The advantage is that unlike email loyalty coupons that stay trapped in email and often received at wrong location and wrong time - the customers now see these "personalized loyalty based coupons" location based along with other coupons in their finditnear app. This increases the chance of redemption - and keeps the loyalty coupons on top of their list. We call it end of loyalty coupons that stay trapped in email. 
+
+_MOBILE_DESC_4_=Jobsmo.com is the mobile way to hire and get hired! It revolutionizes hiring hourly workforce.  Jobsmo.com replaces the "Now Hiring" sign on window.
+Employers do not need to visit a website to post jobs or connect with candidates. And Seekers do not need a website to get found. You can use jobsmo right from your phone - SMS, iPhone app, Android app, mobile web etc. And of course you can use the traditional website
+
+_ABOUT_DESC_4-1_=pos.com.
+
+_ABOUT_DESC_4-2_=With pos, employers and seekers find an instant match near them.
+
+_ABOUT_DESC_5_=<b>POS:</b> POS is our solution to enable you to join your conference calls easily with just a few keystrokes.
+
+_MOBILE_DESC_5_=POS is our mobile app solution to enable you to join your conference calls easily with just a few keystrokes.
+_MOBILE_DESC_6_=Share your device UDID for beta testing by email or SMS.
+_MOBILE_ABOUT_MORE_=More
+_MOBILE_APP_=Our Apps
+_MOBILE_FINDITNEAR_=pos.com
+_MOBILE_JOBSMO_=pos.com
+_MOBILE_BRIDGECALL_=POS
+_MOBILE_SHAREUDID_=Share UDID
+
+//Activate page
+_ACTIVATE_HEADER_=Account activation
+_ACTIVATE_EMAIL_ACTIVATION_=Email activation.
+_ACTIVATE_EMAIL_=Email
+_ACTIVATE_CAPTCHA_=Captcha
+_ACTIVATE_PHONE_ACTIVATION_=Phone number activation.
+_ACTIVATE_PHONE_=Phone number
+
+
+
+
+
+//Contact page
+_CONTACT_HEADER_=Contact us
+_CONTACT_NAME_=Your name
+_CONTACT_EMAIL_=Your email address
+_CONTACT_COMMENT_=Your comment or question
+_CONTACT_LOCATION_=Location
+_CON_ADD_USA_=USA
+_CON_ADD_USA_HEAD_=Headquarters: 
+_CON_ADD_USA_1_=1250 Oakmead Parkway #210
+_CON_ADD_USA_2_=Sunnyvale,
+_CON_ADD_USA_3_=CA 94085
+_CON_ADD_NO_=Contact No.
+_CON_ADD_USA_4_=+14085018870
+_CON_ADD_EMAIL_=Email id:
+_CON_ADD_EMAIL_SEND_=info@_SITENAME_NO_CAPS_.com
+_CON_ADD_INDIA_=INDIA
+_CON_ADD_INDIA_1_=406,Shantam complex,
+_CON_ADD_INDIA_2_=Opp. Navneet house,
+_CON_ADD_INDIA_3_=Near Gurukul road, Memnagar,
+_CON_ADD_INDIA_4_=Ahmedabad,
+_CON_ADD_INDIA_5_=Gujarat (India).
+_CON_ADD_INDIA_6_=+9179-40301438
+
+
+// WEB SITE ERROR PAGE
+_SITE_ERROR_PAGE_1_=Sorry, the requested page does not exist.
+_SITE_ERROR_PAGE_2_=Try going to the
+_SITE_ERROR_PAGE_3_=home page and navigating to your page from there.
+_SITE_ERROR_PAGE_4_=You can
+_SITE_ERROR_PAGE_5_=contact us
+_SITE_ERROR_PAGE_6_=if you need help.
+_SITE_ERROR_PAGE_7_=_SITENAME_
+
+
+//Forgot password page
+_FORGOT_PASSWORD_=Forgot password
+_FORGOT_EMAIL_PHONE_=Enter email address:
+
+
+//Contact Us link page
+_TMP_CONTACT_US_COMMENT_=Comment
+_TMP_CONTACT_US_INFO_=Contact us information
+_TMP_CONTACT_US_FULLNAME_=Full name
+_TMP_CONTACT_US_EMAIL_=Email
+_FROMNAME_ = Team Fresh N Pack.
+
+//howitworks page
+_HOW_IT_WORKS_=How _SITENAME_ - Point of Sale. work
+_HOW_IT_WORKS_DESC_=Page under development.
+
+
+
+//Help page
+_HELP_NEED_HELP_=Looks like you need some help?
+_HELP_FIND_SOLUTION_=Let us help you find a solution.
+_HELP_FORGOT_PASSWORD_=I forgot my password
+_HELP_ACCOUNT_INACTIVE_=My account is inactive
+_HELP_CONTACT_US_=Contact us and we'll help you out
+
+
+//index page
+_INDEX_PAGE_SIGNUP_NOW_=Signup now
+_INDEX_PAGE_DESC_=To get things done!
+_INDEX_PAGE_DESC_1_=Shared pos lists!
+_INDEX_PAGE_DESC_2_=Not just track what you are doing
+_INDEX_PAGE_DESC_3_=but track the tasks you assign to others.
+_INDEX_PAGE_DESC_4_=Collaborate better.
+_INDEX_PAGE_DESC_5_= revolutionizes how you get things done!
+_INDEX_PAGE_DESC_6_=the mobile way to hire or get hired!
+_INDEX_PAGE_DESC_7_=POS Network - to get things done!
+_INDEX_PAGE_DESC_8_=instant match near you!
+_INDEX_PAGE_DESC_9_=Join conference calls with a few keystrokes!
+_INDEX_PAGE_DESC_10_=Share UDID for testing!
+_INDEX_PAGE_DESC_11_=Solve your business needs
+_INDEX_PAGE_LOCATION_=Located in heart of silicon valley, _SITENAME_, Inc. makes apps that enable real time location based transactions. 
+_INDEX_PAGE_CHECKOUT_OUR_APP_=Checkout our other apps:
+
+//Password confirm page
+_PASSWORD_CONFIRM_HEADER_=Forgot password verification
+_FORGOT_PASSWORD_VERIFICATION_DESC_=Please use verification code from your email or sms for reset password request.
+_PASSWORD_CONFIRM_TOKEN_=Verification code :
+_PASSWORD_CONFIRM_NEW_PASSWORD_=New password : 
+_PASSWORD_CONFIRM_CONFIRM_PASSWORD_=Confirm password :
+_PASSWORD_CONFIRM_OR_=Or
+_PASSWORD_CONFIRM_JOIN_=Join _SITENAME_ - to get things done.
+_PASSWORD_CONFIRM_SIGN_IN_=Sign in to _SITENAME_ - to get things done.
+
+
+//Sign in page
+_SIGNIN_EMAIL_PHONE_=Email or Phone
+_SIGNIN_PASSWORD_=Password 
+_SIGNIN_CANT_ACCESS_=I can't access my account
+_SIGNIN_REMEMBER_=Remember it
+_SIGNIN_SIGNIN_=Sign in
+_SIGNIN_OR_=Or
+_SIGNIN_JOIN_=Join _SITENAME_ - to get things done.
+
+
+//sms page
+_SMS_DESC_=_SITENAME_ - to get things done.
+_SMS_DESC_1_=Page under development.
+
+
+
+//terms & Conditions page
+_TERMS_DESC_=T &amp; C _SITENAME_ - to get things done.
+_TERMS_DESC_1_=Page under development.
+
+
+//privancy page
+_PRIVACY_HEADER_=Privacy policy
+_PRIVACY_HEADER_DESC_=Your privacy is our top concern. No fine prints. No large agreements. We never share your identity except your username.
+
+
+
+//Verify phone page
+_VERIFY_PHONE_HEADER_=Account activation required
+
+
+
+//Moblile page
+_MOBILE_PAGE_DESC_=Mobile Use _SITENAME_ - to get things done.
+_MOBILE_PAGE_DESC_1_=Page under development.
+
+
+//footer page
+_HOME_APPS_=Apps
+_HOME_APPS_NVIS_=NVIS
+_HOME_APPS_ASM_=ASM
+_HOME_APPS_POS_=POS
+_HOME_APPS_SALES_=Sales Track
+_HOME_FOOTER_CONTACT_=Contact &amp; Support
+_HOME_ABOUT_=About
+_HOME_CONTACT_US_=Contact us
+_HOME_T&C_ =T&C
+_HOME_PRIVACY_=Privacy
+_HOME_FOOTER_HELP_=Help
+_HOME_FOOTER_FOLLOW_US_=Follow us
+_HOME_HEADER_TITLE_NAME_=_SITENAME_ - to get things done
+_HOME_HEADER_HOW_WORKS_=How it works
+_HOME_HEADER_HI_=Hi
+_HOME_EMAIL_OR_PHONE_=Email/phone
+_HOME_EMAIL_=Email
+_HOME_PASSWORD_=Password
+_LOGIN_SIGNIN_BUTTON_=Sign in
+_HOME_HOME_=Home
+_HOME_ACCESS_ACCOUNT_=I can't access my account
+_HOME_REMEMBER_=Remember it
+_FOOTER_ADD_=_SITENAME_ Inc.
+_FOOTER_ADD_1_=Headquarters: 250 Oakmead Parkway #210
+_FOOTER_ADD_2_=Sunnyvale, CA 94085
+_FOOTER_ADD_3_=+7407405555
+_FOOTER_OTHERS_=others..
+_FOOTER_ADD_4_=info@_SITENAME_NO_CAPS_.com
+_FOOTER_ADD_5_=&copy; 2012 _SITENAME_ Inc.
+_HOME_SEARCH_ASSIGN_To_=Assigned to name
+_HOME_SEARCH_ASSIGN_BY_=Assigner name
+_LANGUAGE_=Language
+_NVIS_FULLNAME_ = New Vision Integrated Systems
+_ENG_=English
+_ARABIC_=Arabic
+_HOME_SALES_SUMMARY_=Sales Summary
+_WELCOME_ =Welcome
+
+
+//After login header page
+_HEADER_MY_PROFILE_=MY PROFILE
+_HEADER_ABOUT_ME_=About me
+_HEADER_CHANGE_PASSWORD_=Change password
+_HEADER_CLOSE_ACCOUNT_=Close account
+_HEADER_MY_WORK_=My work report
+_HEADER_POS_ = POS
+_HEADER_GRAPH_ = POS
+_HEADER_MY_LISTS_=MY LISTS
+_MODULE_PURCHASE_=Purchase Module
+_HEADER_PURCHASE_=Purchase
+_HEADER_PURCHASE_RETURN_=Purchase Return 
+_HEADER_ACCOUNTING_=Accounting
+_HEADER_ASSIGN_ME_=ASSIGNED BY ME
+_HEADER_OTHER_TODO_=OTHERS POS
+_HEADER_MY_NETWORK_=MY NETWORK
+_HEADER_COLLEGUES_=Collegues
+_HEADER_REMINDERS_=REMINDERS
+
+
+
+
+//My profile page
+_ABOUTME_PHONE_MESSAGE_=Are you sure you want to delete this phone number?
+_ABOUTME_PHONE_CONFIRMATION_DIALOG_=Confirmation dialog
+_ABOUTME_DELETE_EMAIL_ACCOUNT_=Are you sure you want to delete this email account?
+_ABOUTME_EMAIL_CONFIRMATION_DIALOG_=Confirmation dialog
+_MY_PROFILE_=My profile
+_MY_PROFILE_FULL_NAME_=Full name
+_MY_PROFILE_EMAIL_=Email
+_MY_PROFILE_PHONES_=Phones
+_MY_PROFILE_ADD_PHONE_=Add phone number
+_MY_PROFILE_PHONE_VERIFY_NOW_=Verify now
+_MY_PROFILE_PHONE_VERIFIED_=Verified   
+_MY_PROFILE_PHONE_DELETE_NOW_=Delete now
+_MY_PROFILE_ADD_REMOVE_PHONE_=Add/Remove phone
+_MY_PROFILE_PHONE_DELETE_OR_VERIFY_=Please either delete or verify your unverified number.
+_ABOUTME_OR_=or
+_MY_PROFILE_SPECIFY_PHONE_NUMBER_=Please specify the phone number.
+_MY_PROFILE_PHONE_ALREADY_VERIFIED_=You already have a verified number.If you add another previous one will be deleted.
+_MY_PROFILE_PHONE_RECEIVE_SMS_=Can receive SMS on this?
+
+
+//social links
+_MY_PROFILE_SOCIAL_LINKS_=Social links
+_MY_PROFILE_ADD_LINKEDIN_=Add linkedin link
+_MY_PROFILE_SPECIFY_LINKEDIN_=Please specify your linkedin URL
+_MY_PROFILE_EG_LINKEDIN_=e.g. http://www.linkedin.com/...
+_MY_PROFILE_ADD_TWITTER_=Add twitter link
+_MY_PROFILE_SPECIFY_TWITTER_=Please specify your twitter URL
+_MY_PROFILE_EG_TWITTER_=e.g. http://www.twitter.com/...
+_MY_PROFILE_ADD_FACEBOOK_=Add facebook link
+_MY_PROFILE_SPECIFY_FACEBOOK_=Please specify your facebook URL
+_MY_PROFILE_EG_FACEBOOK_=e.g. http://www.facebook.com/...
+_MY_PROFILE_UPLOAD_AVATAR_=Upload avatar
+
+
+//Home page
+_HOME_HEADER_HI_=Hi
+_HOME_TODO_LIST_=TODO lists
+_HOME_ALL_=All
+_HOME_OPEN_=Open
+_HOME_DONE_=Done
+_HOME_CLOSE_=Close
+
+
+//LEFT VIEW PAGE
+_LEFT_VIEW_PROFILE_=Profile
+_LEFT_VIEW_EDIT_=edit
+_LEFT_VIEW_ADD_EMAIL_=Add email
+_LEFT_VIEW_FACEBOOK_=facebook
+_LEFT_VIEW_TWITTER_=twitter
+_LEFT_VIEW_LINKEDIN_=linkedin
+_LEFT_VIEW_UPLOAD_AVATAR_=Upload Avatar
+
+//Change password page
+_PROFILE_CHANGE_MY_PASSWORD_=Change password
+_PROFILE_OLD_PASSWORD_=Old password
+_PROFILE_NEW_PASSWORD_=New password
+_PROFILE_CONFIRM_PASSWORD_=Confirm password
+_PROFILE_SEND_MAIL_PASSWORD_ =Send Mail
+
+////////////////////////////////////POS - POINT OF SALE /////////////////////////////////////
+
+_BTN_BROWSE_=Browse
+_BTN_SEARCH_=Search
+_BTN_SCAN_=Scan
+_BTN_LOGOUT_=Logout
+_BTN_SALES_RETURN_=Sales Return
+_BTN_UPC_CODE_=UPC Code
+_BTN_CALCULATOR_=Calculator
+_BTN_TICKETS_=Tickets
+_BTN_MESSAGES_=Messages
+_BTN_VAULT_=Vault
+_BTN_ENTER_=Enter
+
+
+_NO_PENDING_TICKET_=No Pending Tickets.
+_PENDING_TICKETS_=Pending Tickets
+_PENDING_=Hold Ticket
+
+
+
+
+
+//-------------------------------------------- Browse Product Page ------------------------------------------//
+
+_BROWSE_PRODUCT_DISCARD_=Discard
+_BROWSE_PRODUCT_PAY_=Pay
+_BROWSE_PRODUCT_INVOICE_NO_=Invoice No
+_BROWSE_PRODUCT_CUSTOMER_=Customer
+_BROWSE_PRODUCT_PRODUCT_NAME_=Product Name
+_BROWSE_PRODUCT_QUANTITY_=Quantity
+_BROWSE_PRODUCT_PRICE_=Price
+_BROWSE_PRODUCT_TOTAL_=Total
+_BROWSE_PRODUCT_TAX_=Tax
+_BROWSE_PRODUCT_ABOUT_ME_=About Me
+_BROWSE_PRODUCT_CHANGE_PASSWORD_=Change Password
+_BROWSE_PRODUCT_PRODUCTS_=Products
+_BROWSE_PRODUCT_RETURN_TICKETS_=Return Tickets
+_BROWSE_PRODUCT_DISCOUNT_=Discount
+_BROWSE_PRODUCT_NO_PRODUCT_AVAILABLE_=No Products Available.
+_LBL_SEARCH_=Search
+
+
+
+//-------------------------------------------- Home Page ------------------------------------------//
+
+_HOME_PAGE_NO_COLLEGUES_ONLINE_=No Collegues Online.
+_HOME_PAGE_WORKSPACE_=workspace
+_HOME_PAGE_GOOD_MORNING_=Good Morning
+_HOME_PAGE_SALES_RETURN_=SALES RETURN
+_HOME_PAGE_UPC_CODE_=UPC code
+_HOME_PAGE_CALCULATOR_=CALCULATOR
+_HOME_PAGE_WORKSPACE_=workspace
+
+
+//-------------------------------------------- Ticket List Page ------------------------------------------//
+
+_TICKET_LIST_TICKET_LIST_=Ticket List
+_TICKET_LIST_FOR_=Ticket List For 
+_PENDING_DEL_TICKET_LIST_=Pending Delivery Ticket List
+_TICKET_LIST_AMOUNT_=Amount
+_TICKET_LIST_FROM_=From
+_TICKET_LIST_SELECT_=Select
+_TICKET_LIST_TO_=To
+_TICKET_LIST_SEARCH_=Search
+_TICKET_LIST_INVOICE_ID_=Invoice Id
+_TICKET_LIST_CASHIER_=Cashier
+_TICKET_LIST_CREATED_DATE_=Created Date
+_TICKET_LIST_STATUS_=Status
+_TICKET_LIST_NOT_FOUND_=Ticket not found
+_PURCHASE_LIST_NOT_FOUND_=Purchase not found
+_TICKET_LIST_ACTION_=Action
+_ENTRY_NOT_FOUND_=Entry not found
+
+
+//-------------------------------------------- Messages Page ------------------------------------------//
+
+
+_MESSAGE_PAGE_INBOX_=Inbox
+_MESSAGE_PAGE_INBOX_EMPTY_=Inbox is Empty.
+
+
+//-------------------------------------------- Vault Page ------------------------------------------//
+
+_VAULT_PAGE_VAULT_DETAILS_=Vault Details
+_VAULT_PAGE_CASHIER_ID_=Cashier Id
+_VAULT_PAGE_WITHDRAW_=Withdraw
+_VAULT_PAGE_DEPOSITE_=Deposit
+
+
+//-------------------------------------------- Product List Page ------------------------------------------//
+
+_PRODUCT_LIST_PAGE_PRODUCT_LIST_=Product List
+_PRODUCT_LIST_PAGE_NO_PRODUCT_=Product not found
+
+
+//-------------------------------------------- Return Ticket Page ------------------------------------------//
+
+_RETURN_TICKET_PAGE_LIST_=Return Ticket List
+_RETURN_TICKET_PAGE_ACTION_=Action
+
+
+//-------------------------------------------- Exit Page ------------------------------------------//
+
+_EXIT_PAGE_SHIFT_DETAILS_=Shift Details
+_EXIT_PAGE_SHIFT_ID_=Shift Id
+_EXIT_PAGE_CASH_OUT_AMOUNT_=Cash Out Amount
+
+//-------------------------------------------- Admin Panel ------------------------------------------//
+
+_ADMIN_STATISTICS_ =Statistics
+_ADMIN_CLIENT_REQUEST_ =Clients Request
+_ADMIN_CLIENTS_ =Clients
+_ADMIN_CATEGORY_ =Category
+_ADMIN_PRODUCTS_ =Products
+_ADMIN_STORES_ =Stores
+_ADMIN_SUPPLIERS_ =Suppliers
+_ADMIN_CUSTOMERS_ =Customers
+_ADMIN_EMPLOYEES_ =Employees
+_ADMIN_ACCOUNTS_ =Accounts
+_ADMIN_GENERAL_ENTRY_ =Journal Entry
+_ADMIN_REPORTS_ =REPORTS
+_ADMIN_DAILY_REPORTS_ =Daily Sales Reports
+_ADMIN_DAILY_TRANSACTION_REPORTS_ = Daily Account Transactions Reports
+_ADMIN_ACCOUNTS_REPORT_ =Accounts Report
+_ADMIN_PURCHASE_REPORT_ =Purchase Report
+_ADMIN_SETTING_ =My Settings
+_ADMIN_PROFILE_ =My Profile
+_ADMIN_CHANGE_PASS_ =Change Password
+_ADMIN_MESSAGES_ =Messages
+_ADMIN_API_ =API
+_ADMIN_API_FUNC_ =API Functions
+_ADMIN_API_MODULE_ =API Modules
+_ADMIN_CLEANDB_ =CleanDB
+_ADMIN_SEARCH_ =Search
+_ADMIN_START_DATE_ =Start Date
+_ADMIN_END_DATE_ =End Date
+_ADMIN_SHOWALL_ =Show All
+_ADMIN_NO_ =No
+_ADMIN_FIRSTNAME_ =First Name
+_ADMIN_LASTNAME_ =Last Name
+_ADMIN_EMAIL_ = Email
+_ADMIN_CREATE_DATE_ =Created Date
+_ADMIN_DELETE_ =Delete
+_ADMIN_NO_RECORD_FOUND_ =No Record Found
+_ADMIN_VERIFY_ =Verified
+_ADMIN_CHANGE_PASS_ =Change Password
+_ADMIN_USER_ =User
+_ADMIN_FULL_NAME_ =Full Name
+_ADMIN_SUBMIT_ =Submit
+_ADMIN_CANCEL_ =Cancel
+_ADMIN_MODIFY_DATE_ =Modified Date
+_ADMIN_EDIT_ =Edit
+_ADMIN_CITY_ =City
+_ADMIN_STATUS_ =Status
+_ADMIN_ACTICE_ =Active
+_ADMIN_INACTICE_ =Inactive
+_ADMIN_DISCOUNT_ =Discount
+_ADMIN_EXPIRY_DATE_ =Expiry Date
+_ADMIN_CONTACT_NO_ =Contact No
+_ADMIN_ADDRESS_ =Address
+_ADMIN_SALARY_ =Salary
+_ADMIN_SAVE_ =Save
+_ADMIN_DELET_CONFIRM_ =Do you want to delete this record
+_ADMIN_USERS_=Users
+_ADMIN_REPORT_BY_=Report By
+
+//-------------------------------------------- Admin Panel Drop Down Menu ----------------------------------------//
+
+_CATEGORY_WISE_ =Category wise
+_PRODUCT_WISE_ =Product wise
+_MONTH_WISE_ =Month wise
+_CUSTOMER_WISE_ =Customer wise
+_STORE_WISE_ =Store wise
+_PROFIT_WISE_ =Profit wise
+_PERSON_WISE_ =Sales Person wise
+_SERCH_BY_DATE_ =Search ByDate
+_TOTAL_ =TOTAL
+_PRODUCT_REPORT_ =Product Report
+_TODAY_ =Today's
+
+
+
+
+
+//-------------------------------------------- Admin Client Request Panel------------------------------------------//
+
+
+_CLIENT_PEN_REQ_LIST_ =Client's Pending Request Listing
+_CLIENT_PEN_ID_ =ClientId
+_CLIENT_TOTAL_USERS_=Total Users
+_CLIENT_LOGIN_ID_=Login Id
+_CLIENT_TOTAL_REQ_ =Total Request
+_CLIENT_ACCEPT_ =Accept
+_CLIENT_REJECT_ =Reject
+_CLIENT_PEN_USER_LIST_ =Client's Pending User Listing
+_CLIENT_LIST_ =Client Listing
+_CLIENT_TOTAL_USER_ =Total Users
+_CLIENT_USER_LIST_ =Client's User Listing
+_CREATE_CLIENT_ =Create Client
+_CREATE_USER_ =Create User
+_CLIENT_NO_USER_ =No of Users
+_SELECE_NO_USERS_ =Please select the no of users
+_SELECE_STORE_ =Please select the store 
+
+
+
+//-------------------------------------------- Admin Category Panel------------------------------------------//
+
+_CATEGORY_ =Category
+_CATEGORY_LIST_ =Category Listing
+_ADD_CATEGORY_ =Add Category
+_CATEGORY_NAME_ =Category Name
+_SELECT_CATEGORY_NAME_ =Select product category
+_CATEGORY_DESC_ =Category Description
+
+
+//-------------------------------------------- Admin Product Panel------------------------------------------//
+
+_PRODUCT_ =Product
+_PRODUCT_IMAGE_ =Product Image
+_PRODUCT_DESC_ =Product Description
+_PRODUCT_LIST_ =Product Listing
+_ADD_PRODUCT_ =Add Product
+_PRODUCT_NAME_ =Product Name
+_PRODUCT_PRICE_ =Price
+_PRODUCT_UPC_CODE_ =UPC Code
+_PRODUCT_QUANTITY_ =Quantity
+_STORE_ =Store
+_PRODUCT_LIST_FOR_ =Product Listing For
+
+
+//-------------------------------------------- Admin Customer Panel------------------------------------------//
+
+_CUSTOMER_LIST_ =Customer Listing
+_ADD_CUSTOMER_ =Add Customer
+_CUSTOMER_NAME_ =Customer Name
+_CUSTOMER_ADD_ =Customer Address
+_CUSTOMER_NO_ =Contact No
+_CREDIT_ =Credit
+_CUST_RATE_ =Customer rating
+_DEBIT_ =Debit
+_TOTAL_PURCHASE_ =Total Purchase
+
+
+//-------------------------------------------- Admin Store Panel------------------------------------------//
+
+_STORE_LIST_ =Store Listing
+_ADD_STORE_ =Add Stores
+_STORE_NAME_ =Store Name
+_SELECT_YOUR_STORE_ =Select Your Store
+_SELECT_YOUR_CUSTOMER_ =Select Your Customer
+_SELECT_YOUR_SUPPLIER_ =Select Your Supplier
+
+//-------------------------------------------- Admin SUPPLIER Panel------------------------------------------//
+
+_SUPPLIER_ =Supplier
+_SUPPLIER_LIST_ =Supplier Listing
+_ADD_SUPPLIER_ =Add Supplier
+_SUPPLIER_NAME_ =Supplier Name
+_ORDER_ID_=Order Id
+
+
+//-------------------------------------------- Admin EMPLOYEE Panel------------------------------------------//
+
+_EMPLOYEE_LIST_ =Employee Listing
+_ADD_EMPLOYEE_ =Add Employee
+_EMPLOYEE_ =Employee
+
+
+//-------------------------------------------- Admin MESSAGE Panel------------------------------------------//
+
+_MESSAGE_LIST_ =Message Listing
+_ADD_MESSAGE_ =Add Message
+_MESSAGE_ =Message
+
+
+//-------------------------------------------- Product Description Page------------------------------------------//
+
+_PRODUCT_DESC_PAGE_DESCRIPTION_ = Description
+_PRODUCT_DESC_PAGE_MANUFACTURE_DATE_ = Manufacture Date
+_PRODUCT_DESC_PAGE_EXPIRY_DATE_ = Expiry Date
+_PRODUCT_DESC_PAGE_PRODUCT_PICTURE_ = Product Picture
+
+
+//----------------------------------- Return Ticket Description Page -----------------------------------//
+
+
+_RETURN_TICKET_DESC_PAGE_TICKET_DETAILS_ = Return Ticket Details
+_RETURN_TICKET_DESC_PAGE_INVOICE_ID_ = Return Invoice ID
+_RETURN_TICKET_DESC_PAGE_CUSTOMER_NAME_ = Customer Name
+_RETURN_TICKET_DESC_PAGE_CASHIER_ = Cashier
+_RETURN_TICKET_DESC_PAGE_TOTAL_RETURN_ITEM_ = Total Return Item
+_RETURN_TICKET_DESC_PAGE_TOTAL_RETURN_AMOUNT_ = Total Return Amount
+_RETURN_TICKET_DESC_PAGE_CREATED_DATE_ = Created Date
+_RETURN_TICKET_DESC_PAGE_QUANTITY_ = Return Quantity
+_RETURN_TICKET_DESC_PAGE_UNIT_PRICE_ = Unit Price
+_RETURN_TICKET_DESC_PAGE_TOTAL_ = Return Total
+
+
+//----------------------------------- Customer List Page -----------------------------------//
+
+
+_CUSTOMER_LIST_PAGE_CUSTOMER_LIST_ = Customer List
+_CUSTOMER_LIST_PAGE_POINT_ = Point
+_CUSTOMER_LIST_PAGE_FROM_ = From
+_CUSTOMER_LIST_PAGE_SELECT_ = Select
+_CUSTOMER_LIST_PAGE_TO_ = To
+_CUSTOMER_LIST_PAGE_CUSTOMERS_ = Customers
+_CUSTOMER_LIST_PAGE_CUSTOMER_NAME_ = Customer Name
+_CUSTOMER_LIST_PAGE_EMAIL_ = Email
+_CUSTOMER_LIST_PAGE_REWARD_POINT_ = Reward Point
+_CUSTOMER_LIST_PAGE_CONTACT_NO_ = Contact No
+_CUSTOMER_LIST_PAGE_NO_FOUND_ = No customer found
+_SUPP_LIST_PAGE_NO_FOUND_ = No supplier found
+
+
+//----------------------------------- Ticket Description Page -----------------------------------//
+
+
+_Ticket_DESC_PAGE_TICKET_DETAILS_ = Ticket Details
+_Ticket_DESC_PAGE_INVOICE_ID_ = Invoice ID
+_Ticket_DESC_PAGE_CUSTOMER_NAME_ = Customer Name
+_Ticket_DESC_PAGE_CASHIER_ = Cashier
+_Ticket_DESC_PAGE_TOTAL_ITEM_ = Total Item
+_Ticket_DESC_PAGE_TOTAL_AMOUNT_ = Total Amount
+_Ticket_DESC_PAGE_TOTAL_PRODUCT_ = Total Product
+_Ticket_DESC_PAGE_CREATED_DATE_ = Created Date
+_Ticket_DESC_PAGE_QUANTITY_ = Quantity
+_Ticket_DESC_PAGE_DESCRIPTION_ = Description
+_Ticket_DESC_PAGE_UNIT_PRICE_ = Unit Price
+_Ticket_DESC_PAGE_TOTAL_ = Total
+
+
+//----------------------------------- Collegues List Page -----------------------------------//
+
+_COLLEGUES_LIST_PAGE_LIST_ = Collegues's List
+_COLLEGUES_LIST_PAGE_SEND_MSG_ = Send Message
+_COLLEGUES_LIST_PAGE_NO_ONLINE_ = No Collegues Online.
+_ADMIN_EXPORT_=Export
+_ADMIN_IMPORT_=Import
+
+
+//----------------------------------- General Account Entry -----------------------------------//
+
+
+
+_GENERAL_ACCOUNT_ENTRY_ = Journal Account Entry
+_GENERAL_ACCOUNT_ENTRY_CUSTOMER_ = Journal Account Entry For Customer
+_GENERAL_ACCOUNT_ENTRY_SUPPLIER_ = Journal Account Entry For Supplier
+_GENERAL_ACCOUNT_ENTRY_OTHER_ = Journal Account Entry For Other
+_GENERAL_ACCOUNT_ = Account
+_GENERAL_DEBIT_ = Debit
+_GENERAL_CREDIT_ = Credit
+_GENERAL_AMOUNT_ = Amount
+_SELECT_CREDIT_ = Select Credit Account
+_SELECT_DEBIT_ = Select Debit Account
+_ADD_GROUP_ = Add Account Group
+_ADD_MASTER_ = Add Account Type
+_GROUP_NAME_ = Group Name
+_ACCOUNT_NAME_ = Account Name
+_BALANCE_ = Balance
+_SELECT_GROUP_NAME_ = Select Group Name
+_INTER_STORE_ADJUST_ = Inter Store Adjust
+_SELECT_PRODUCT_NAME_ = Select Product Name
+_AVAILABLE_QUANTITY_ = Available Quantity
+_STORE_ACC_REPORT_ =Stores Accounts Report
+_TOTAL_CREDIT_ = Total Credit
+_TOTAL_DEBIT_ = Total Debit
+_STORE_PUR_REPORT_= Store wise purchase Report
+_TOTAL_ORDER_ = Total Order
+_PRODUCT_WISE_PUR_REPORT_= Product wise purchase Report
+_TOTAL_QUANTITY_= Total Quantity
+_EXP_DATA_ = Export Data
+_EXP_PRODUCT_FILE_= Export Product File
+_EXP_CUSTOMER_FILE_= Export Customer File
+_EXP_SUPPLIER_FILE_= Export Supplier File
+_DOWNLOAD_= Download
+_IMP_DATA_ = Import Data
+_UPLOAD_ONLY_= Please Upload Only 
+_FILE_ = file
+_IMP_CUS_= Import Customers
+_IMP_PRO_= Import Products
+_IMP_SUPP_= Import Supplier
+_UPLOAD_= Upload
+_PAY_TYPE_ = Payment Type
+_SELECT_PAY_TYPE_ = Select payment type
+_CASH_ = Cash
+_CARD_ = Card
+_CHEQUE_ = Cheque
+_TICKETS_DELIVER_ = Ticket Delivery
+_REMAIN_CREDIT_ = Remaining Credit
+_CREDIT_AMOUNT_ = Credit Amount
+_CASH_PAY_ = Cash Payment
+_CARD_PAY_ = Card Payment
+_CHEQUE_PAY_ = Cheque Payment
+_MY_LISTS_VIEW_ = View
+_CUST_GEN_ENT_FOR_ = Customer Journal Entry For 
+_ID_ = Id 
+_PO_LIST_FOR_=Purchase Order List For
+_PO_DETAIL_ = Purchase Order Details
+_SUPP_GEN_ENT_FOR_ = Supplier Journal Entry For
+_VIEW_INVOICE_ = View Invoice
+_VIEW_RETURN_INVOICE_ = View Return Invoice
+_EXPORT_PDF_ = Export in pdf file
+_EXPORT_EXCEL_ = Export in CSV format
+_AMOUNT_PENDING_ = Amount Pending
+_RECEIVE_ = Received
+_PAY_ = Paid
+_OTHER_ = Other
+_CURR_ = Currency
+_TODAY_TRANSACTION_REPORTS_ = Today's Account Report
+_TODAY_JOURNAL_REPORTS_ = Today's Journal Report
+_CLIENT_NAME_ = Client Name
+_TOTAL_SALES_ = Total Sales
+_TOTAL_SALES_RETURN_ = Total Sales Return
+_TOTAL_PURCHASE_ = Total Purchase
+_TOTAL_PURCHASE_RETURN_ = Total Purchase Return
+_QUANTITY_DETAILS_ = Quantity details for

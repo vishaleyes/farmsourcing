@@ -1,0 +1,746 @@
+//Global
+_BTN_SUBMIT_=عرض
+_BTN_CONTINUE_=استمر
+_BTN_CANCEL_=إلغاء
+_BTN_OK_=حسنا
+_BTN_HISTORY_=History
+_BTN_LOGIN_=دخول
+_BTN_LOGOUT_=دخول
+_BTN_YES_=نعم
+_BTN_NO_=لا
+_BTN_APPLY_=Apply
+_BTN_DONE_=Done
+_BTN_OPEN_=Open
+_BTN_CLOSE_=Close
+_BTN_REASSIGN_=Reassign
+_BTN_ASSIGN_BACK_=Assign back
+_BTN_BACK_=Back
+_BTN_ADD_INVITE_=Add Invite
+_BTN_VIEW_=view
+_BTN_DELETE_=delete
+_BTN_ATTACH_=attachment
+_GO_=Go
+_MOBILE_TIMEZONE_=Timezone
+_CAPTCHA_DESC_=To prevent automated SPAM submissions, we request you to type the characters you see in the picture below: (letters are not case-sensitive)
+_REMIND_ME_=Remind Me
+_INDEX_PAGE_CHECK_APPS_=Check our apps &gt;&gt;
+_MOBILE_LOGO_DESC_=to get things done
+
+
+//Forgot password link page
+_EMAIL_TMP_FORGOT_PASSWORD_HELLO_=Hello
+_EMAIL_TMP_FORGOT_PASSWORD_VERIFICATION_CODE_=You requested to reset your password. <br /><br />To reset your password, you will need verification code
+_EMAIL_TMP_FORGOT_PASSWORD_RESET_=<br />To reset your password, please click
+_EMAIL_TMP_FORGOT_PASSWORD_REGARDS_=<p> Thanks,<br />
+        The _SITENAME_ Team<br />
+        _SITENAME_NO_CAPS_.com </p>
+
+
+//Sign up page
+_SIGNUP_CREATE_ACCOUNT_=Create an account
+_SIGNUP_REG_ABOUT_YOURSELF_=Please tell us about your self. You will use your email or phone number to login to your _SITENAME_NO_CAPS_.com account
+_SIGNUP_REG_FULL_NAME_=Full name
+_SIGNUP_REG_EMAIL_=Email
+_SIGNUP_REG_PHONE_=Phone number
+_SIGNUP_REG_VERIFY_NOW_=Verify now
+_SIGNUP_REG_SMS_=Can receive SMS on this? 
+_SIGNUP_REG_VERIFY_PHONE_=To verify the phone number, text "Verify
+_SIGNUP_REG_VERIFY_NUMBER_=to (408)645-7916.
+_SIGNUP_REG_OK_=OK
+_SIGNUP_REG_PASSWORD_=Password
+_SIGNUP_REG_CONFIRM_PASSWORD_=Confirm password
+_CAPTCHA_=Captcha
+_TIMEZONE_=Timezone
+_SIGNUP_REG_SAFE_=Safe &amp; Secure
+_SIGNUP_REG_QUICK_=Quick &amp; Easy
+_SIGNUP_REG_CLEAR_=Clear &amp; Simple
+_SIGNUP_REG_REQUIRED_=Fields marked with * are required.
+
+
+_WINE_ACEDEMY_=أكاديمية النبيذ
+_WINE_ACEDEMY_DESC_=طعمة للتجارة. هي شركة تابعة لمجموعة طعمة الدولية ذات الأنشطة المتنوعة التي تغطي مجموعة واسعة من المجالات بما في ذلك المعامل الوطنية طعمة، كيماويات طعمة، والمملكة العربية رعاية وDareed مؤسسة. لدينا خط الرئيسي هو التوزيع والتسويق المنتجات الاستهلاكية. وقد حصل عملنا الشاق لنا سمعة جيدة جدا في السوق المحلية ودول مجلس التعاون الخليجي المقاطعات جدا لأكثر من عقد من الزمان.
+
+_STORE_COMPITION_=متجر المسابقة
+_STORE_COMPITION_DESC_=<B> _SITENAME_.com </ B> وقتنا الحقيقي المشتركة قوائم TODO حيث لا يمكنك تتبع المهام الخاصة بك نقاط البيع ولكن أيضا المهام التي عينت للآخرين. هذا يساعد في إدارة نقاط البيع الخاصة بك البنود أو العناصر نقاط البيع قمت بتعيين لoithers. يمكنك إعداد رسائل تذكير مقرها في انتظار الوقت المناسب لPOS، والتذكير الموقع الإعداد استنادا لبنود نقاط البيع وهلم جرا. للتسجيل في مجانية ويمكنك الحصول على أفضل الأمور فقط.
+
+_NEW_ARRIVALS_=جديد لدينا
+_NEW_ARRIVALS_DESC_=أبجد هوز هو مجرد دمية النص من التنضيد والطباعة والصناعة. وكان أبجد هوز نص في هذه الصناعة القياسية دمية من أي وقت مضى منذ 1500s، عندما مجهول مقعدا الطابعة الطباعة من نوع وسارعت الى تقديم نوع العينة الكتاب. وقد نجا خمسة قرون فحسب.
+
+
+_COLLEAGURS_LOCATOR_=زميل محدد
+_COLLEAGURS_LOCATOR_DESC_=
+
+
+_ABOUT_DESC_4_=<b>Jobsmo.com:</b> Jobsmo.com is the mobile way to hire and get hired! It revolutionizes hiring hourly workforce.  Jobsmo.com replaces the "Now Hiring" sign on window.
+Employers do not need to visit a website to post jobs or connect with candidates. And Seekers do not need a website to get found. You can use jobsmo right from your phone - SMS, iPhone app, Android app, mobile web etc. And of course you can use the traditional website
+
+_MOBILE_DESC_3_=Finditnear.com makes it easy for merchants and consumers to connect. It enables consumers to ask for what they want in real time at the location they prefer and enables merchants to create buzz in real time and connect instantly with consumers near their locations. We also enable merchants to send personalized (patent pending) "just for me" messages/coupons to customers through Finditnear. The advantage is that unlike email loyalty coupons that stay trapped in email and often received at wrong location and wrong time - the customers now see these "personalized loyalty based coupons" location based along with other coupons in their finditnear app. This increases the chance of redemption - and keeps the loyalty coupons on top of their list. We call it end of loyalty coupons that stay trapped in email. 
+
+_MOBILE_DESC_4_=Jobsmo.com is the mobile way to hire and get hired! It revolutionizes hiring hourly workforce.  Jobsmo.com replaces the "Now Hiring" sign on window.
+Employers do not need to visit a website to post jobs or connect with candidates. And Seekers do not need a website to get found. You can use jobsmo right from your phone - SMS, iPhone app, Android app, mobile web etc. And of course you can use the traditional website
+
+_ABOUT_DESC_4-1_=jobsmo.com.
+
+_ABOUT_DESC_4-2_=With Jobsmo, employers and seekers find an instant match near them.
+
+_ABOUT_DESC_5_=<b>Bridgecall:</b> Bridgecall is our mobile app solution to enable you to join your conference calls easily with just a few keystrokes.
+
+_MOBILE_DESC_5_=Bridgecall is our mobile app solution to enable you to join your conference calls easily with just a few keystrokes.
+_MOBILE_DESC_6_=Share your device UDID for beta testing by email or SMS.
+_MOBILE_ABOUT_MORE_=More
+_MOBILE_APP_=Our Apps
+_MOBILE_FINDITNEAR_=Finditnear.com
+_MOBILE_JOBSMO_=Jobsmo.com
+_MOBILE_BRIDGECALL_=Bridgecall
+_MOBILE_SHAREUDID_=Share UDID
+
+//Activate page
+_ACTIVATE_HEADER_=Account activation
+_ACTIVATE_EMAIL_ACTIVATION_=Email activation.
+_ACTIVATE_EMAIL_=Email
+_ACTIVATE_CAPTCHA_=Captcha
+_ACTIVATE_PHONE_ACTIVATION_=Phone number activation.
+_ACTIVATE_PHONE_=Phone number
+
+
+
+//Contact page
+_CONTACT_HEADER_=Contact us
+_CONTACT_NAME_=Your name
+_CONTACT_EMAIL_=Your email address
+_CONTACT_COMMENT_=Your comment or question
+_CONTACT_LOCATION_=Location
+_CON_ADD_USA_=USA
+_CON_ADD_USA_HEAD_=Headquarters: 
+_CON_ADD_USA_1_=1250 Oakmead Parkway #210
+_CON_ADD_USA_2_=Sunnyvale,
+_CON_ADD_USA_3_=CA 94085
+_CON_ADD_NO_=Contact No.
+_CON_ADD_USA_4_=+14085018870
+_CON_ADD_EMAIL_=Email id:
+_CON_ADD_EMAIL_SEND_=info@_SITENAME_NO_CAPS_.com
+_CON_ADD_INDIA_=INDIA
+_CON_ADD_INDIA_1_=406,Shantam complex,
+_CON_ADD_INDIA_2_=Opp. Navneet house,
+_CON_ADD_INDIA_3_=Near Gurukul road, Memnagar,
+_CON_ADD_INDIA_4_=Ahmedabad,
+_CON_ADD_INDIA_5_=Gujarat (India).
+_CON_ADD_INDIA_6_=+9179-40301438
+
+
+// WEB SITE ERROR PAGE
+_SITE_ERROR_PAGE_1_=Sorry, the requested page does not exist.
+_SITE_ERROR_PAGE_2_=Try going to the
+_SITE_ERROR_PAGE_3_=home page and navigating to your page from there.
+_SITE_ERROR_PAGE_4_=You can
+_SITE_ERROR_PAGE_5_=contact us
+_SITE_ERROR_PAGE_6_=if you need help.
+_SITE_ERROR_PAGE_7_=_SITENAME_
+
+
+//Forgot password page
+_FORGOT_PASSWORD_=Forgot password
+_FORGOT_EMAIL_PHONE_=Enter email or phone number:
+
+
+
+//howitworks page
+_HOW_IT_WORKS_=How _SITENAME_ - to get things done. work
+_HOW_IT_WORKS_DESC_=Page under development.
+
+
+
+//Help page
+_HELP_NEED_HELP_=Looks like you need some help?
+_HELP_FIND_SOLUTION_=Let us help you find a solution.
+_HELP_FORGOT_PASSWORD_=I forgot my password
+_HELP_ACCOUNT_INACTIVE_=My account is inactive
+_HELP_CONTACT_US_=Contact us and we'll help you out
+
+
+//index page
+_INDEX_PAGE_SIGNUP_NOW_=Signup now
+_INDEX_PAGE_DESC_=To get things done!
+_INDEX_PAGE_DESC_1_=Shared todo lists!
+_INDEX_PAGE_DESC_2_=Not just track what you are doing
+_INDEX_PAGE_DESC_3_=but track the tasks you assign to others.
+_INDEX_PAGE_DESC_4_=Collaborate better.
+_INDEX_PAGE_DESC_5_=ثورة كيف تحصل الامور!
+_INDEX_PAGE_DESC_6_=the mobile way to hire or get hired!
+_INDEX_PAGE_DESC_7_=TODO Network - to get things done!
+_INDEX_PAGE_DESC_8_=instant match near you!
+_INDEX_PAGE_DESC_9_=Join conference calls with a few keystrokes!
+_INDEX_PAGE_DESC_10_=Share UDID for testing!
+_INDEX_PAGE_DESC_11_=Solve your business needs
+_INDEX_PAGE_LOCATION_=Located in heart of silicon valley, _SITENAME_, Inc. makes apps that enable real time location based transactions. 
+_INDEX_PAGE_CHECKOUT_OUR_APP_=Checkout our other apps:
+
+//Password confirm page
+_PASSWORD_CONFIRM_HEADER_=Forgot password verification
+_FORGOT_PASSWORD_VERIFICATION_DESC_=Please use verification code from your email or sms for reset password request.
+_PASSWORD_CONFIRM_TOKEN_=Verification code :
+_PASSWORD_CONFIRM_NEW_PASSWORD_=New password : 
+_PASSWORD_CONFIRM_CONFIRM_PASSWORD_=Confirm password :
+_PASSWORD_CONFIRM_OR_=Or
+_PASSWORD_CONFIRM_JOIN_=Join _SITENAME_ - to get things done.
+_PASSWORD_CONFIRM_SIGN_IN_=Sign in to _SITENAME_ - to get things done.
+
+
+//Sign in page
+_SIGNIN_EMAIL_PHONE_=Email or Phone
+_SIGNIN_PASSWORD_=Password 
+_SIGNIN_CANT_ACCESS_=I can't access my account
+_SIGNIN_REMEMBER_=Remember it
+_SIGNIN_SIGNIN_=Sign in
+_SIGNIN_OR_=Or
+_SIGNIN_JOIN_=Join _SITENAME_ - to get things done.
+
+
+//sms page
+_SMS_DESC_=_SITENAME_ - to get things done.
+_SMS_DESC_1_=Page under development.
+
+
+
+//terms & Conditions page
+_TERMS_DESC_=T &amp; C _SITENAME_ - to get things done.
+_TERMS_DESC_1_=Page under development.
+
+
+//privancy page
+_PRIVACY_HEADER_=Privacy policy
+_PRIVACY_HEADER_DESC_=Your privacy is our top concern. No fine prints. No large agreements. We never share your identity except your username.
+
+
+
+//Verify phone page
+_VERIFY_PHONE_HEADER_=Account activation required
+
+
+
+//Moblile page
+_MOBILE_PAGE_DESC_=Mobile Use _SITENAME_ - to get things done.
+_MOBILE_PAGE_DESC_1_=Page under development.
+
+
+//footer page
+_HOME_APPS_=Apps
+_HOME_APPS_NVIS_=NVIS
+_HOME_APPS_ASM_=ASM
+_HOME_APPS_POS_=POS
+_HOME_APPS_SALES_=Sales Track
+_HOME_FOOTER_CONTACT_=الاتصال والدعم الفني
+_HOME_ABOUT_=حول
+_HOME_CONTACT_US_=الاتصال بنا
+_HOME_T&C_ =T&C
+_HOME_PRIVACY_=خصوصية
+_HOME_FOOTER_HELP_=مساعدة
+_HOME_FOOTER_FOLLOW_US_=تابعنا
+_HOME_HEADER_TITLE_NAME_=_SITENAME_ - to get things done
+_HOME_HEADER_HOW_WORKS_=كيف يعمل
+_HOME_HEADER_HI_=مرحبا
+_HOME_EMAIL_OR_PHONE_=البريد الإلكتروني / الهاتف
+_HOME_EMAIL_=البريد الإلكتروني
+_HOME_PASSWORD_=كلمة السر
+_LOGIN_SIGNIN_BUTTON_=Sign in
+_HOME_HOME_=دخول
+_HOME_ACCESS_ACCOUNT_=لا أستطيع الدخول إلى حسابي
+_HOME_REMEMBER_=تذكر أنه
+_FOOTER_ADD_=_SITENAME_ Inc.
+_FOOTER_ADD_1_=Headquarters: 1250 Oakmead Parkway #210
+_FOOTER_ADD_2_=Sunnyvale, CA 94085
+_FOOTER_ADD_3_=+14085018870
+_FOOTER_OTHERS_=others..
+_FOOTER_ADD_4_=info@_SITENAME_NO_CAPS_.com
+_FOOTER_ADD_5_=&copy; 2012 _SITENAME_ Inc.
+_HOME_SEARCH_ASSIGN_To_=Assigned to name
+_HOME_SEARCH_ASSIGN_BY_=Assigner name
+_LANGUAGE_=لغة
+_NVIS_FULLNAME_ = رؤية جديدة انظمة متكاملة
+_ENG_=الإنجليزية
+_ARABIC_=العربية
+_HOME_SALES_SUMMARY_=ملخص المبيعات
+_WELCOME_ =ترحيب
+
+
+//After login header page
+_HEADER_MY_PROFILE_=MY PROFILE
+_HEADER_ABOUT_ME_=About me
+_HEADER_CHANGE_PASSWORD_=Change password
+_HEADER_CLOSE_ACCOUNT_=Close account
+_HEADER_MY_WORK_=My work report
+_HEADER_POS_ = POS
+_HEADER_GRAPH_ = POS
+_HEADER_MY_LISTS_=MY LISTS
+_MODULE_PURCHASE_=شراء وحدة
+_HEADER_PURCHASE_=شراء
+_HEADER_PURCHASE_RETURN_=شراء العودة
+_HEADER_ACCOUNTING_=Accounting
+_HEADER_ASSIGN_ME_=ASSIGNED BY ME
+_HEADER_OTHER_TODO_=OTHERS TODO
+_HEADER_MY_NETWORK_=MY NETWORK
+_HEADER_COLLEGUES_=Collegues
+_HEADER_REMINDERS_=REMINDERS
+
+
+
+
+//My profile page
+_ABOUTME_PHONE_MESSAGE_=Are you sure you want to delete this phone number?
+_ABOUTME_PHONE_CONFIRMATION_DIALOG_=Confirmation dialog
+_ABOUTME_DELETE_EMAIL_ACCOUNT_=Are you sure you want to delete this email account?
+_ABOUTME_EMAIL_CONFIRMATION_DIALOG_=Confirmation dialog
+_MY_PROFILE_=ملفي الشخصي
+_MY_PROFILE_FULL_NAME_=بدر تام
+_MY_PROFILE_EMAIL_=البريد الإلكتروني
+_MY_PROFILE_PHONES_=Phones
+_MY_PROFILE_ADD_PHONE_=Add phone number
+_MY_PROFILE_PHONE_VERIFY_NOW_=Verify now
+_MY_PROFILE_PHONE_VERIFIED_=Verified   
+_MY_PROFILE_PHONE_DELETE_NOW_=Delete now
+_MY_PROFILE_ADD_REMOVE_PHONE_=Add/Remove phone
+_MY_PROFILE_PHONE_DELETE_OR_VERIFY_=Please either delete or verify your unverified number.
+_ABOUTME_OR_=or
+_MY_PROFILE_SPECIFY_PHONE_NUMBER_=Please specify the phone number.
+_MY_PROFILE_PHONE_ALREADY_VERIFIED_=You already have a verified number.If you add another previous one will be deleted.
+_MY_PROFILE_PHONE_RECEIVE_SMS_=Can receive SMS on this?
+
+
+//social links
+_MY_PROFILE_SOCIAL_LINKS_=Social links
+_MY_PROFILE_ADD_LINKEDIN_=Add linkedin link
+_MY_PROFILE_SPECIFY_LINKEDIN_=Please specify your linkedin URL
+_MY_PROFILE_EG_LINKEDIN_=e.g. http://www.linkedin.com/...
+_MY_PROFILE_ADD_TWITTER_=Add twitter link
+_MY_PROFILE_SPECIFY_TWITTER_=Please specify your twitter URL
+_MY_PROFILE_EG_TWITTER_=e.g. http://www.twitter.com/...
+_MY_PROFILE_ADD_FACEBOOK_=Add facebook link
+_MY_PROFILE_SPECIFY_FACEBOOK_=Please specify your facebook URL
+_MY_PROFILE_EG_FACEBOOK_=e.g. http://www.facebook.com/...
+_MY_PROFILE_UPLOAD_AVATAR_=Upload avatar
+
+
+//Change password page
+_PROFILE_CHANGE_MY_PASSWORD_=تغيير كلمة المرور
+_PROFILE_OLD_PASSWORD_=كلمة المرور القديمة
+_PROFILE_NEW_PASSWORD_=كلمة مرور جديدة
+_PROFILE_CONFIRM_PASSWORD_=تأكيد كلمة المرور
+_PROFILE_SEND_MAIL_PASSWORD_ =إرسال البريد
+
+////////////////////////////////////POS - POINT OF SALE /////////////////////////////////////
+
+_BTN_BROWSE_=تصفح
+_BTN_SEARCH_=البحث
+_BTN_SCAN_=تفحص
+_BTN_LOGOUT_=خروج
+_BTN_SALES_RETURN_=مبيعات العودة
+_BTN_UPC_CODE_=UPC رمز
+_BTN_CALCULATOR_=آلة حاسبة
+_BTN_TICKETS_=تذاكر
+_BTN_MESSAGES_=رسائل
+_BTN_VAULT_=قبو
+_BTN_ENTER_=دخول
+_NETWORK_SELECT_=Select
+
+
+_NO_PENDING_TICKET_=لا انتظار تذاكر.
+_PENDING_TICKETS_=في انتظار تذاكر
+_PENDING_ = عقد التذاكر
+
+//-------------------------------------------- Browse Product Page ------------------------------------------
+
+_BROWSE_PRODUCT_DISCARD_=نبذ
+_BROWSE_PRODUCT_PAY_=دفع
+_BROWSE_PRODUCT_INVOICE_NO_=الفاتورة رقم
+_BROWSE_PRODUCT_CUSTOMER_=زبون
+_BROWSE_PRODUCT_PRODUCT_NAME_=اسم المنتج
+_BROWSE_PRODUCT_QUANTITY_=كمية
+_BROWSE_PRODUCT_PRICE_=السعر
+_BROWSE_PRODUCT_TOTAL_=مجموع
+_BROWSE_PRODUCT_TAX_=ضريبة
+_BROWSE_PRODUCT_ABOUT_ME_=معلومات عني
+_BROWSE_PRODUCT_CHANGE_PASSWORD_=تغيير كلمة المرور
+_BROWSE_PRODUCT_PRODUCTS_=المنتجات
+_BROWSE_PRODUCT_RETURN_TICKETS_=تذكرة السفر
+_BROWSE_PRODUCT_DISCOUNT_=خصم
+_BROWSE_PRODUCT_NO_PRODUCT_AVAILABLE_=لا توجد منتجات متاحة.
+_LBL_SEARCH_=البحث
+
+
+//-------------------------------------------- Home Page ------------------------------------------
+
+_HOME_PAGE_NO_COLLEGUES_ONLINE_=لا الزملاء على الانترنت.
+_HOME_PAGE_WORKSPACE_=مساحة العمل
+_HOME_PAGE_GOOD_MORNING_=صباح الخير
+_HOME_PAGE_SALES_RETURN_=مبيعات إرجاع
+_HOME_PAGE_UPC_CODE_=UPC رمز
+_HOME_PAGE_CALCULATOR_=آلة حاسبة
+
+
+//-------------------------------------------- Ticket List Page ------------------------------------------//
+
+_TICKET_LIST_TICKET_LIST_=تذكرة قائمة
+_TICKET_LIST_FOR_=تذكرة لقائمة
+_PENDING_DEL_TICKET_LIST_=في انتظار تسليم قائمة التذاكر
+_TICKET_LIST_AMOUNT_=كمية
+_TICKET_LIST_FROM_=من
+_TICKET_LIST_SELECT_=حدد
+_TICKET_LIST_AMOUNT_=إلى
+_TICKET_LIST_SEARCH_=البحث
+_TICKET_LIST_INVOICE_ID_=الفاتورة رقم
+_TICKET_LIST_CASHIER_=أمين الصندوق
+_TICKET_LIST_CREATED_DATE_=تاريخ الانشاء
+_TICKET_LIST_STATUS_=حالة
+_TICKET_LIST_NOT_FOUND_=لم يتم العثور على تذكرة
+_PURCHASE_LIST_NOT_FOUND_=لم يتم العثور على شراء
+_TICKET_LIST_ACTION_=عمل
+
+
+//-------------------------------------------- Messages Page ------------------------------------------//
+
+_MESSAGE_PAGE_INBOX_=البريد الوارد
+_MESSAGE_PAGE_INBOX_EMPTY_=البريد الوارد فارغ.
+
+
+//-------------------------------------------- Vault Page ------------------------------------------//
+
+_VAULT_PAGE_VAULT_DETAILS_=تفاصيل قبو
+_VAULT_PAGE_CASHIER_ID_=أمين الصندوق رقم
+_VAULT_PAGE_WITHDRAW_=سحب
+_VAULT_PAGE_DEPOSITE_=الإيداع
+
+
+//-------------------------------------------- Product List Page ------------------------------------------//
+
+_PRODUCT_LIST_PAGE_PRODUCT_LIST_=قائمة المنتجات
+_PRODUCT_LIST_PAGE_NO_PRODUCT_=لم يتم العثور على المنتج
+
+
+//-------------------------------------------- Return Ticket Page ------------------------------------------//
+
+_RETURN_TICKET_PAGE_LIST_=العودة قائمة التذاكر
+_RETURN_TICKET_PAGE_ACTION_=عمل
+
+
+//-------------------------------------------- Exit Page ------------------------------------------//
+
+_EXIT_PAGE_SHIFT_DETAILS_=التحول تفاصيل
+_EXIT_PAGE_SHIFT_ID_=تحويل رقم
+_EXIT_PAGE_CASH_OUT_AMOUNT_=خارج النقدية المبلغ
+
+
+//-------------------------------------------- Admin Panel ------------------------------------------//
+
+_ADMIN_STATISTICS_ =إحصائيات
+_ADMIN_CLIENT_REQUEST_ =طلب العملاء
+_ADMIN_CLIENTS_ =العملاء
+_ADMIN_CATEGORY_ =فئة
+_ADMIN_PRODUCTS_ =المنتجات
+_ADMIN_STORES_ =مخازن
+_ADMIN_SUPPLIERS_ =الموردون
+_ADMIN_CUSTOMERS_ =الزبائن
+_ADMIN_EMPLOYEES_ =الموظفين
+_ADMIN_SETTING_ =الإعدادات
+_ADMIN_ACCOUNTS_ =حسابات
+_ADMIN_REPORTS_ =تقارير
+_ADMIN_DAILY_REPORTS_ =تقرير المبيعات اليومية
+_ADMIN_DAILY_TRANSACTION_REPORTS_ =تقارير المعاملات حساب
+_ADMIN_ACCOUNTS_REPORT_ =حسابات عن
+_ADMIN_PURCHASE_REPORT_ =تقرير شراء
+_ADMIN_GENERAL_ENTRY_ =الدخول العام
+_ADMIN_PROFILE_ =بلدي الشخصي
+_ADMIN_CHANGE_PASS_ =تغيير كلمة المرور
+_ADMIN_MESSAGES_ =رسائل
+_ADMIN_API_ =API
+_ADMIN_API_FUNC_ =وظائف API
+_ADMIN_API_MODULE_ =وحدات API
+_ADMIN_CLEANDB_ =CleanDB
+_ADMIN_SEARCH_ =البحث
+_ADMIN_START_DATE_ =تاريخ البدء
+_ADMIN_END_DATE_ =نهاية التاريخ
+_ADMIN_SHOWALL_ =مشاهدة جميع
+_ADMIN_NO_ =عدد
+_ADMIN_FIRSTNAME_ =الاسم الأول
+_ADMIN_LASTNAME_ =اسم العائلة
+_ADMIN_EMAIL_ =البريد الإلكتروني
+_ADMIN_CREATE_DATE_ =تاريخ الانشاء
+_ADMIN_DELETE_ =حذف
+_ADMIN_NO_RECORD_FOUND_ =العثور على أي سجل
+_ADMIN_VERIFY_ =التحقق
+_ADMIN_CHANGE_PASS_ =تغيير كلمة المرور
+_ADMIN_USER_ =مستخدم
+_ADMIN_FULL_NAME_ =بدر تام
+_ADMIN_SUBMIT_ =عرض
+_ADMIN_CANCEL_ =إلغاء
+_ADMIN_MODIFY_DATE_ =تعديل تاريخ
+_ADMIN_EDIT_ =تحرير
+_ADMIN_CITY_ =مدينة
+_ADMIN_STATUS_ =حالة
+_ADMIN_ACTICE_ =نشط
+_ADMIN_INACTICE_ =غير فعال
+_ADMIN_DISCOUNT_ =خصم
+_ADMIN_EXPIRY_DATE_ =تاريخ انتهاء الصلاحية
+_ADMIN_CONTACT_NO_ =الاتصال لا
+_ADMIN_ADDRESS_ =عنوان
+_ADMIN_SALARY_ =راتب
+_ADMIN_SAVE_ =حفظ
+_ADMIN_DELET_CONFIRM_ =هل تريد حذف هذا السجل
+_ADMIN_USERS_=المستخدمين
+_ADMIN_REPORT_BY_=تقرير من
+
+
+
+//-------------------------------------------- Admin Panel Drop Down Menu ----------------------------------------//
+_CATEGORY_WISE_ =الفئة الحكمة
+_PRODUCT_WISE_ =المنتج الحكيم
+_MONTH_WISE_ =الحكمة الشهر
+_CUSTOMER_WISE_ =الحكمة العملاء
+_STORE_WISE_ =مخزن الحكمة
+_PROFIT_WISE_ =الحكمة الربح
+_PERSON_WISE_ =مبيعات عاقل
+_HOME_ALL_=جميع
+_SERCH_BY_DATE_ =البحث حسب التاريخ
+_TOTAL_ =المجموع
+_PRODUCT_REPORT_ =المنتج تقرير
+_TODAY_ =اليوم
+
+
+
+
+//-------------------------------------------- Admin Client Request Panel------------------------------------------//
+
+
+_CLIENT_PEN_REQ_LIST_ =العميل القوائم طلب معلق
+_CLIENT_PEN_ID_ =العميل رقم
+_CLIENT_TOTAL_USERS_ =عدد الأعضاء
+_CLIENT_LOGIN_ID_=الدخول معرف
+_CLIENT_TOTAL_REQ_ =إجمالي طلبات
+_CLIENT_ACCEPT_ =قبل
+_CLIENT_REJECT_ =رفض
+_CLIENT_PEN_USER_LIST_ =العميل قائمة انتظار العضو
+_CLIENT_LIST_ =العميل القوائم
+_CLIENT_TOTAL_USER_ =عدد الأعضاء
+_CLIENT_USER_LIST_ =قائمة العضو العميل
+_CREATE_CLIENT_ =إنشاء عميل
+_CREATE_USER_ =إنشاء مستخدم
+_CLIENT_NO_USER_ =عدد المستخدمين
+_SELECE_NO_USERS_ =الرجاء اختيار عدد من المستخدمين
+_SELECE_STORE_ =الرجاء اختيار مخزن
+
+
+//-------------------------------------------- Admin Category Panel------------------------------------------//
+
+_CATEGORY_ =فئة
+_CATEGORY_LIST_ =فئة القوائم
+_ADD_CATEGORY_ =إضافة فئة
+_CATEGORY_NAME_ =اسم التصنيف
+_SELECT_CATEGORY_NAME_ =حدد فئة من فئات المنتجات
+_CATEGORY_DESC_ =التصنيف الوصف
+
+
+//-------------------------------------------- Admin Product Panel------------------------------------------//
+
+_PRODUCT_ =نتاج
+_PRODUCT_IMAGE_ =صورة المنتج
+_PRODUCT_DESC_ =وصف المنتج
+_PRODUCT_LIST_ =المنتج القوائم
+_ADD_PRODUCT_ =إضافة منتج
+_PRODUCT_NAME_ =اسم المنتج
+_PRODUCT_PRICE_ =السعر
+_PRODUCT_UPC_CODE_ =UPC رمز
+_PRODUCT_QUANTITY_ =كمية
+_PRODUCT_LIST_FOR_ =قائمة المنتجات لل
+
+
+
+//-------------------------------------------- Admin Customer Panel------------------------------------------//
+
+_CUSTOMER_LIST_ =قائمة العملاء
+_ADD_CUSTOMER_ =إضافة العملاء
+_CUSTOMER_NAME_ =اسم العميل
+_CUSTOMER_ADD_ =العنوان العملاء
+_CUSTOMER_NO_ =رقم الاتصال
+_CREDIT_ =ائتمان
+_CUST_RATE_ =تصنيف العملاء
+_DEBIT_ =مدين
+_TOTAL_PURCHASE_ =إجمالي شراء
+
+
+//-------------------------------------------- Admin Store Panel------------------------------------------//
+
+_STORE_LIST_ =مخزن القوائم
+_ADD_STORE_ =إضافة متاجر
+_STORE_NAME_ =اسم المتجر
+_STORE_ =تخزين
+_SELECT_YOUR_STORE_ =حدد المتجر الخاص بك
+
+
+//-------------------------------------------- Admin SUPPLIER Panel------------------------------------------//
+
+_SUPPLIER_ =مزود
+_SUPPLIER_LIST_ =المورد القوائم
+_ADD_SUPPLIER_ =إضافة مزود
+_SUPPLIER_NAME_ =اسم المورد
+_ORDER_ID_=النظام رقم
+
+
+//-------------------------------------------- Admin EMPLOYEE Panel------------------------------------------//
+
+_EMPLOYEE_LIST_ =موظف القوائم
+_ADD_EMPLOYEE_ =إضافة موظف
+_EMPLOYEE_ =عامل
+
+//-------------------------------------------- Admin MESSAGE Panel------------------------------------------//
+
+_MESSAGE_LIST_ =رسالة قائمة
+_ADD_MESSAGE_ =إضافة رسالة
+_MESSAGE_ =رسالة
+
+
+//-------------------------------------------- Product Description Page------------------------------------------//
+
+_PRODUCT_DESC_PAGE_DESCRIPTION_ = وصف
+_PRODUCT_DESC_PAGE_MANUFACTURE_DATE_ = تاريخ تصنيع
+_PRODUCT_DESC_PAGE_EXPIRY_DATE_ = تاريخ انتهاء الصلاحية
+_PRODUCT_DESC_PAGE_PRODUCT_PICTURE_ = صورة المنتج
+
+
+//----------------------------------- Return Ticket Description Page -----------------------------------//
+
+
+_RETURN_TICKET_DESC_PAGE_TICKET_DETAILS_ = العودة تفاصيل التذاكر
+_RETURN_TICKET_DESC_PAGE_INVOICE_ID_ = العودة رقم الفاتورة
+_RETURN_TICKET_DESC_PAGE_CUSTOMER_NAME_ = اسم العميل
+_RETURN_TICKET_DESC_PAGE_CASHIER_ = أمين الصندوق
+_RETURN_TICKET_DESC_PAGE_TOTAL_RETURN_ITEM_ = إجمالي العائد الإغلاق
+_RETURN_TICKET_DESC_PAGE_TOTAL_RETURN_AMOUNT_ = إجمالي المبلغ العائد
+_RETURN_TICKET_DESC_PAGE_CREATED_DATE_ = تاريخ الانشاء
+_RETURN_TICKET_DESC_PAGE_QUANTITY_ = العودة الكمية
+_RETURN_TICKET_DESC_PAGE_UNIT_PRICE_ = سعر الوحدة
+_RETURN_TICKET_DESC_PAGE_TOTAL_ = العائد الإجمالي
+
+
+//----------------------------------- Customer List Page -----------------------------------//
+
+
+_CUSTOMER_LIST_PAGE_CUSTOMER_LIST_ = قائمة العملاء
+_CUSTOMER_LIST_PAGE_POINT_ = نقطة
+_CUSTOMER_LIST_PAGE_FROM_ = من
+_CUSTOMER_LIST_PAGE_SELECT_ = حدد
+_CUSTOMER_LIST_PAGE_TO_ = إلى
+_CUSTOMER_LIST_PAGE_CUSTOMERS_ = الزبائن
+_CUSTOMER_LIST_PAGE_CUSTOMER_NAME_ = اسم العميل
+_CUSTOMER_LIST_PAGE_EMAIL_ = البريد الإلكتروني
+_CUSTOMER_LIST_PAGE_REWARD_POINT_ = مكافأة نقطة
+_CUSTOMER_LIST_PAGE_CONTACT_NO_ = الاتصال لا
+_CUSTOMER_LIST_PAGE_NO_FOUND_ = العثور على العملاء
+
+
+//----------------------------------- Ticket Description Page -----------------------------------//
+
+
+_Ticket_DESC_PAGE_TICKET_DETAILS_ = تذكرة تفاصيل
+_Ticket_DESC_PAGE_INVOICE_ID_ = الفاتورة رقم
+_Ticket_DESC_PAGE_CUSTOMER_NAME_ = اسم العميل
+_Ticket_DESC_PAGE_CASHIER_ = أمين الصندوق
+_Ticket_DESC_PAGE_TOTAL_ITEM_ = السلعة الكامل
+_Ticket_DESC_PAGE_TOTAL_AMOUNT_ = المبلغ الكلي لل
+_Ticket_DESC_PAGE_TOTAL_PRODUCT_ =إجمالي المنتج
+_Ticket_DESC_PAGE_CREATED_DATE_ = تاريخ الانشاء
+_Ticket_DESC_PAGE_QUANTITY_ = كمية
+_Ticket_DESC_PAGE_DESCRIPTION_ = وصف
+_Ticket_DESC_PAGE_UNIT_PRICE_ = سعر الوحدة
+_Ticket_DESC_PAGE_TOTAL_ = مجموع
+
+
+//----------------------------------- Collegues List Page -----------------------------------//
+
+_COLLEGUES_LIST_PAGE_LIST_ = الزملاء في قائمة
+_COLLEGUES_LIST_PAGE_SEND_MSG_ = إرسال رسالة
+_COLLEGUES_LIST_PAGE_NO_ONLINE_ = لا الزملاء على الانترنت.
+_ADMIN_EXPORT_=تصدير
+_ADMIN_IMPORT_=استيراد
+
+
+
+//----------------------------------- General Account Entry -----------------------------------//
+
+
+
+_GENERAL_ACCOUNT_ENTRY_ = دخول الحساب العامة
+_GENERAL_ACCOUNT_ENTRY_CUSTOMER_ = دخول الحساب العام لخدمة العملاء
+_GENERAL_ACCOUNT_ENTRY_SUPPLIER_ = عام الدخول حساب مزود
+_GENERAL_ACCOUNT_ENTRY_OTHER_ = إدخال دفتر اليومية لحساب أخرى
+_GENERAL_ACCOUNT_ = حساب
+_GENERAL_DEBIT_ = مدين
+_GENERAL_CREDIT_ = ائتمان
+_GENERAL_AMOUNT_ = كمية
+_SELECT_CREDIT_ = حدد حساب الائتمان
+_SELECT_DEBIT_ = حدد حساب الخصم
+_ADD_GROUP_ = إضافة حساب المجموعة
+_ADD_MASTER_ = إضافة نوع الحساب
+_GROUP_NAME_ = اسم المجموعة
+_ACCOUNT_NAME_ = اسم الحساب
+_BALANCE_ = موازنة
+_SELECT_GROUP_NAME_ = حدد اسم المجموعة
+_INTER_STORE_ADJUST_ = متجر جملة ضبط
+_SELECT_PRODUCT_NAME_ = حدد اسم المنتج
+_AVAILABLE_QUANTITY_ = الكمية المتاحة
+_STORE_ACC_REPORT_ =مخازن حسابات تقرير
+_TOTAL_CREDIT_ = إجمالي الائتمان
+_TOTAL_DEBIT_ = مجموع الخصم
+_STORE_PUR_REPORT_= تقرير تخزين الحكمة شراء
+_TOTAL_ORDER_ = مجموع ترتيب
+_PRODUCT_WISE_PUR_REPORT_= تقرير شراء المنتج الحكيم
+_TOTAL_QUANTITY_= إجمالي الكمية
+_EXP_DATA_ = تصدير البيانات
+_EXP_PRODUCT_FILE_= تصدير ملف المنتج
+_EXP_CUSTOMER_FILE_= تصدير ملف العملاء
+_EXP_SUPPLIER_FILE_= تصدير مزود الملف
+_DOWNLOAD_= تحميل
+_IMP_DATA_ = استيراد البيانات
+_UPLOAD_ONLY_= يرجى تحميل فقط
+_FILE_ = ملف
+_IMP_CUS_= استيراد العملاء
+_IMP_PRO_= استيراد المنتجات
+_IMP_SUPP_= استيراد مزود
+_UPLOAD_= تحميل
+_SELECT_YOUR_CUSTOMER_ =حدد عميلك
+_SELECT_YOUR_SUPPLIER_ =حدد المورد الخاص بك
+_PAY_TYPE_ = الدفع نوع
+_SELECT_PAY_TYPE_ = حدد نوع الدفع
+_CASH_ = نقد
+_CARD_ = بطاقة
+_CHEQUE_ = شيك
+_TICKETS_DELIVER_ = تذكرة التسليم
+_REMAIN_CREDIT_ = المتبقية الائتمان
+_CREDIT_AMOUNT_ = الائتمان المبلغ
+_CASH_PAY_ = الدفع نقدا
+_CARD_PAY_ = بطاقة الدفع
+_CHEQUE_PAY_ = شيك الدفع
+_MY_LISTS_VIEW_ = معاينة
+_CUST_GEN_ENT_FOR_ = دخول العملاء العامة لل
+_ID_ = معرف
+_SUPP_LIST_PAGE_NO_FOUND_ = لا المورد وجدت
+_PO_LIST_FOR_=شراء قائمة لكي
+_PO_DETAIL_ = شراء تفاصيل الطلب
+_SUPP_GEN_ENT_FOR_ = دخول المورد العامة لل
+_ENTRY_NOT_FOUND_=الإدخال غير موجودة
+_VIEW_INVOICE_ = عرض الفاتورة
+_VIEW_RETURN_INVOICE_ = عودة عرض الفاتورة
+_EXPORT_PDF_ = تصدير في ملف PDF
+_EXPORT_EXCEL_ = تصدير التفوق في ورقة
+_AMOUNT_PENDING_ = مبلغ معلق
+_RECEIVE_ = تلقى
+_PAY_ = دفع
+_OTHER_ = آخر
+_CURR_ = عملة
+_TODAY_TRANSACTION_REPORTS_ = تقرير الحساب اليوم
+_TODAY_JOURNAL_REPORTS_ =اليوم مجلة تقرير
+_CLIENT_NAME_ = اسم العميل
+_TOTAL_SALES_ = إجمالي المبيعات
+_TOTAL_SALES_RETURN_ = مجموع مبيعات العودة
+_TOTAL_PURCHASE_ = إجمالي شراء
+_TOTAL_PURCHASE_RETURN_ = إجمالي شراء العودة
+_QUANTITY_DETAILS_ = تفاصيل الكمية لل
+

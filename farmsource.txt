@@ -1,0 +1,76 @@
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+    [_shopify_y] => 6F1DE414-1785-468D-9481
+    [_shopify_uniq] => x
+    [mp_8cbff8d88d4f825527b06933affb68c3_mixpanel] => {"distinct_id": "145da76b7bc168-010db89e4-4f4b012e-100200-145da76b7bd374","$initial_referrer": "$direct","$initial_referring_domain": "$direct"}
+    [mp_c0db271713e9dd5cb77c1a5de0eeec9c_mixpanel] => {"distinct_id": "12148","$initial_referrer": "$direct","$initial_referring_domain": "$direct","__mps": {},"__mpso": {},"__mpa": {},"__mpap": []}
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api'> http://localhost/farmsourcing/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+    [_shopify_y] => 6F1DE414-1785-468D-9481
+    [_shopify_uniq] => x
+    [mp_8cbff8d88d4f825527b06933affb68c3_mixpanel] => {"distinct_id": "145da76b7bc168-010db89e4-4f4b012e-100200-145da76b7bd374","$initial_referrer": "$direct","$initial_referring_domain": "$direct"}
+    [mp_c0db271713e9dd5cb77c1a5de0eeec9c_mixpanel] => {"distinct_id": "12148","$initial_referrer": "$direct","$initial_referring_domain": "$direct","__mps": {},"__mpso": {},"__mpa": {},"__mpap": []}
+    [PHPSESSID] => 4j701l5sdd875fo4fb3rc48v72
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api'> http://localhost/farmsourcing/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api'> http://localhost/farmsourcing/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api'> http://localhost/farmsourcing/index.php?r=api</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>login</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/login
+    [email] => sandeep.patel@bypt.in
+    [password] => 111111
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api/login&email=sandeep.patel@bypt.in&password=111111'> http://localhost/farmsourcing/index.php?r=api/login&email=sandeep.patel@bypt.in&password=111111</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>login</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/login
+    [email] => sandeep.patel@bypt.in
+    [password] => 111111
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api/login&email=sandeep.patel@bypt.in&password=111111'> http://localhost/farmsourcing/index.php?r=api/login&email=sandeep.patel@bypt.in&password=111111</a></div>
+
+<div style='background-color:#F2F2F2; color:#222279; font-weight: bold; padding:10px;box-shadow: 0 5px 2px rgba(0, 0, 0, 0.25);'><b>Function Name</b> : <font size='6' style='color:orange;'><b><i>index</i></b></font>
+
+<b>PARAMS</b> : Array
+(
+    [r] => api/index
+)
+
+<b>URL</b> :<a style='text-decoration:none;color:#4285F4' target='_blank' href='http://localhost/farmsourcing/index.php?r=api/index'> http://localhost/farmsourcing/index.php?r=api/index</a></div>

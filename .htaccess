@@ -1,0 +1,22 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^www.freshnpack.com [NC]
+RewriteRule ^(.*)$ freshnpack.com/$1 [L,R=301]
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+php_value max_input_vars 2500
+
+# otherwise forward it to index.php
+
+RewriteRule ^site.*$ index.php?r=$1 [PT,L]
+RewriteRule ^admin.*$ index.php?r=admin
+RewriteRule ^site.*$ index.php?r=site
+RewriteRule ^api.*$ index.php?r=api
+RewriteRule ^pos.*$ index.php?r=pos
+
+
+
+
